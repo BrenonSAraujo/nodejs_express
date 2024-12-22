@@ -24,7 +24,7 @@
 
 :heavy_check_mark: `Funcionalidade 2:` Persistência de dados por meio do MongoDB, um banco de dados NoSQL;
 
-:heavy_check_mark: `Funcionalidade 2:` Uso de Middlewares de erros e paginação;
+:heavy_check_mark: `Funcionalidade 3:` Uso de Middlewares de erros e paginação;
 
 ## Ferramentas utilizadas
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
